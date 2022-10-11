@@ -8,7 +8,7 @@ management name for case like (civil management, violations management, Sales
 management ,.....) , case has list of actions added by managers only) and convert those cases to
 managers then take actions after that export or close those cases . cases can convert to more
 than one manager
-##This application has the following modules:
+## This application has the following modules:
 1-Come Cases
 2-Outgoing Cases Keep information of case when export case to anther management like
 (Outgoing ID , Outgoing Date , Outgoing time , Outgoing source this mean what is management
@@ -20,7 +20,7 @@ like(&quot;اجتماع&quot;, &quot;تقارير&quot;, &quot;ضبط مخالف
 5-Cases Transactions Keeps information about transactions between managers like Case
 convert From manager 1 to manager 2 so we need to save this information ( From Manager ID ,
 to manager ID , date of transaction(4/6/2018) , time of transaction(4:30 pm) , Case ID )
-##Functions:
+## Functions:
 1-add/edit/delete Come Cases, Outgoing Cases, managers, Cases Actions, Cases Transactions.
 2- can assign cases to managers
 3-manager can add actions to cases
